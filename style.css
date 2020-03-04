@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    padding-top: 20px;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+.full-content {
+    margin-left: 25vw;
+    padding: 10px;
+    width: 40%;
+    height: 85%;
+    background-color: green;
+}
+
+.top-section {    
+    height: 10%;
+    width: 100%;
+    margin-bottom: 9px;
+    background-color: indianred;
+    padding-top: 7px;
+}
+
+.top-left-blue-rect {  
+    display: inline-block;  
+    margin-left: 5px;
+    margin-right: 275px;
+    height: 85%;
+    width: 40%;    
+    background-color: blue;
+}
+
+.yellow-square {
+    display: inline-block;
+    height: 40px;
+    width: 60px;
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-right: 9px;
+    background-color: yellow;
+}
+
+.yellow-rect {
+    display: inline-block;
+    height: 40px;
+    width: 130px;
+    background-color: yellow;
+}
+
+.top-right-corner-blue-square {
+    display: inline-block;
+    margin-bottom: 15px;
+    width: 35px;
+    height: 30px;
+    background-color: blue;
+}
+
+.photo-section {    
+    height: 60%;
+    width: 100%;
+    background-color: indianred;
+    margin-bottom: 9px;
+}
+
+.bottom-section, .tool-bar{
+    height: 9%;
+    width: 98%;
+    background-color: indianred;
+    margin-bottom: 9px;
+    margin-right: 9px;
+    padding: 5px;
+}
+
+.bottom-left-blue-rect {   
+    display: inline-block; 
+    
+    height: 100%;
+    width: 40%;    
+    margin-right: 153px;
+    background-color: blue;
+}
+
+.top-yellow-rect, .bottom-yellow-rect {
+    display: block;
+    margin-top: 6px;
+    margin-left: 5px;
+    width: 94%;
+    height: 33%;
+    background-color: yellow;
+}
+
+.bottom-right-blue-rect {
+    display: inline-block;
+    height: 100%;
+    width: 30%;  
+    background-color: blue;
+}
+
+.left-yellow-rect {
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 80%;
+    width: 25%;
+    background-color: yellow;
+}
+
+.right-yellow-rect {
+    display: inline-block;
+    height: 80%;
+    width: 30%;
+    background-color: yellow;
+}
+
+.left-rect {
+    display: inline-block;
+    height: 100%;
+    width: 10%;
+    padding-right: 9px;
+    background-color: blue;
+}
+
+.middle-rect {
+    display: inline-block;
+    height: 100%;
+    width: 20%;
+    padding-right: 9px;
+    background-color: blue;
+}
+
+.right-rect {
+    display: inline-block;
+    height: 100%;
+    width: 15%;
+    background-color: blue;
+}
